@@ -1,0 +1,5 @@
+https://github.com/takluyver/pynsist - гайд, чтобы использовать библиотеку NSIS для питона, чтобы собрать программу.
+
+Чтобы запустить, нуно установить библиотеку NSIS, затем в консоли Винды зайти в папку C:\Users\Rei\AppData\Local\Programs\Python\Python36-32. В этой папке лежить исполняемый python.exe. Нужно запускать его.
+
+Сборка запускается командой python -m nsist 'путь до файла'\installer.cfg
